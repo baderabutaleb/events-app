@@ -105,3 +105,8 @@ All data is stored locally in your browser's `localStorage` under the key `event
 ## Browser Support
 
 Works in any modern browser — Chrome, Safari, Firefox, and Edge.
+
+---
+
+### URL
+https://events-bader.qgjth64gsp.workers.dev
